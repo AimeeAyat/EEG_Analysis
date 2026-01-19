@@ -1,0 +1,14 @@
+{
+  "loaded": {
+    "eeg": {
+      "type": "int"
+    },
+    "captions": {
+      "type": "str"
+    },
+    "blocks": {
+      "type": "int"
+    }
+  },
+  "mapping_reason": "no_mapping"
+}
